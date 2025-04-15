@@ -22,7 +22,7 @@ Gosto de desafios e aprender novas tecnológias e coisas, buscando sempre o cres
 
 ## 📊 Estátisicas do GitHub
 
-![MatheusPRodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPRodrigues&show_icons=true&theme=github_dark&hide_title=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPRodrigues&layout=compact&theme=github_dark)
+![MatheusPRodrigues's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusPRodrigues&show_icons=true&theme=github_dark&hide_title=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPRodrigues&layout=normalt&theme=github_dark)
 
 ## Contatos
 
