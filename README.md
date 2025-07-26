@@ -1,6 +1,6 @@
 # Olá, como vai? Matheus aqui! 👋
 
-### Desenvolvedor FullStack 💻
+### Desenvolvedor Back-End 💻
 ### Estudante de Análise e Desenvolvimento de Sistemas 📚 
 
 ## Sobre mim
